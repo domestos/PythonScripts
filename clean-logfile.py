@@ -7,7 +7,7 @@
 #                file_name, limit_size, count_files
 #
 # The log file will clean if size of this file is more than limit size,
-# before clean the current log file will copied to new file
+# before clean the current log file will be copied to new file
 #===============================================================================
 
 import shutil  # for compy file
